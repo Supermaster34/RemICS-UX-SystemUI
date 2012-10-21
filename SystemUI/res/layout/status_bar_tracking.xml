@@ -32,14 +32,7 @@
 
 
 >
-        <com.android.systemui.statusbar.phone.CarrierLabel android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAppearance="@style/TextAppearance.StatusBar.Clock" android:layout_gravity="bottom" android:gravity="center"
 
-
-
-
-
-
- />
     </FrameLayout>
 
     <com.android.systemui.statusbar.phone.CloseDragHandle android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@id/close"

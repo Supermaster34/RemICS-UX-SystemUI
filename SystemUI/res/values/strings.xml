@@ -143,4 +143,5 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="navbar_menu_always_button">Menu (alwaysShow) button</string>
     <string name="navbar_menu_big_button">Menu button</string>
     <string name="powerwidget_screen_timeout_toast">Screen timeout set to: %1$d %2$s</string>
+	<string name="custom_carrier">RemICS-UX</string>
 </resources>
